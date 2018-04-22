@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include "vector.h"
 #include "matrix.h"
-#include "collection-diff.h"
+#include "diff.h"
 
 
 inline int max(int a, int b) {
